@@ -1,0 +1,16 @@
+body{
+    background: url(../images/image.jpg)  center center fixed;
+}
+.container{
+    margin-bottom: 20px;
+}
+#jum{
+    background: lightblue;
+    text-align: center;
+}
+#jum h1{
+    font-size: 70px;
+}
+.card{
+    margin-top: 20px ;
+}
