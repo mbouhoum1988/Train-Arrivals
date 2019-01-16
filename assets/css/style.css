@@ -11,6 +11,12 @@ body{
 #jum h1{
     font-size: 70px;
 }
-.card{
+#card{
     margin-top: 20px ;
+}
+
+@media only screen and (max-width: 600px){
+.table th, .table td {
+    padding: 0px;
+}
 }
